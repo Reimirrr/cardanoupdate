@@ -1,0 +1,48 @@
+{
+	"events": {
+		"form": {
+			"new": "新しいイベント",
+			"edit": "イベントを編集",
+			"translate": "イベントを翻訳",
+			"language": "言語",
+			"name": "名前",
+			"name_placeholder": "名前(90文字以内に記入)",
+			"duration": "イベント期間",
+			"desc": "記述",
+			"desc_placeholder": "イベント内容",
+			"location": "場所",
+			"location_placeholder": "イベント会場",
+			"rsvp": "RSVP リンク",
+			"rsvp_placeholder": "このイベントに参加する場合、どこへ返事(RSVP)すればいいですか？",
+			"submit": "提出",
+			"chars_left": "残文字数",
+			"success_edit": "編集に成功しました。",
+			"success_add": "追加に成功しました。"
+		},
+		"main": {
+			"add": "イベントを追加",
+			"events": "イベント",
+			"desc": "カルダノ関するイベント、世界のどこでも。"
+		},
+		"view": {
+			"edit": "イベントを編集",
+			"translate": "翻訳を追加",
+			"by": "追加した人",
+			"to": "to",
+			"rsvp": "返事（RSVP） リンク",
+			"following": "フォロー中",
+			"follow": "フォロー",
+			"unfollow": "アンフォロー",
+			"success": "コメントの送信に成功しました。"
+		},
+		"card": {
+			"started": "開始",
+			"starts": "開始日",
+			"rsvp": "（RSVP） リンク",
+			"are_you_sure": "このイベントを削除しますか? 削除後,元に戻すことはできません。",
+			"past": "過去のイベント",
+			"ongoing": "進行中のイベント",
+			"upcoming": "今後のイベント"
+		}
+	}
+}
